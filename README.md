@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm josuellopes</h1>
  <p align="center"><br/>
 
-  <a href="https://www.linkedin.com/in/josuel-lopes-7a11902b0/https://www.linkedin.com/in/josuel-lopes-7a11902b0/">
+  <a href="www.linkedin.com/in/josuel-lopes">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
 
